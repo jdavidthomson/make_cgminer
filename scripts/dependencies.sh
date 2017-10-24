@@ -1,8 +1,5 @@
 #!/bin/bash
 
-sudo add-apt-repository ppa:graphics-drivers/ppa
-sudo apt update
-sudo apt install nvidia-384 nvidia-384-dev
 sudo apt-get install g++ freeglut3-dev build-essential libx11-dev libxmu-dev libxi-dev libglu1-mesa libglu1-mesa-dev
 
 nvidia-smi
