@@ -4,6 +4,7 @@ For use on AWS GPU Instances
 Tested on Ubuntu 16.04
 
 With respect to the CUDA EULA and prompts, answer them as follows:
+================
 Do you accept the previously read EULA?
 accept/decline/quit: accept
 
