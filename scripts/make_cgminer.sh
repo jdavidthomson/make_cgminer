@@ -1,4 +1,9 @@
+sudo apt install pkg-config libtool
+sudo apt install libcurl4-openssl-dev
+sudo apt-get install opencl-headers
+
+
 git clone https://github.com/jdavidthomson/cgminer.git && cd cgminer && git checkout v3.7.2-knc
 
-./autoconf --enable-opencl
-./automake
+./autogen.sh --enable-opencl
+./make
