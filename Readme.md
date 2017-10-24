@@ -1,4 +1,4 @@
-This repo contains the build script to compile cgminer 3.7.2 with CUDA support
+This repo contains the build script to compile cgminer 3.7.2 with CUDA support for mining cryptocurrencies with GPU (bitcoin)
 
 For use on AWS GPU Instances
 Tested on Ubuntu 16.04
